@@ -32,3 +32,14 @@ C:\Users\pc\Desktop\pro\hangman\hangman\obj\Debug\na.csproj.GenerateResource.cac
 C:\Users\pc\Desktop\pro\hangman\hangman\obj\Debug\na.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\pro\hangman\hangman\obj\Debug\hangman.exe
 C:\Users\pc\Desktop\pro\hangman\hangman\obj\Debug\hangman.pdb
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\na.csprojResolveAssemblyReference.cache
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.form1.resources
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.Form2.resources
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.Start.resources
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\na.csproj.GenerateResource.Cache
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\Eman\Desktop\Hangman-Game\hangman\hangman\obj\Debug\hangman.pdb
